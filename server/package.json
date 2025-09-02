@@ -7,7 +7,7 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Christof Aschwanden",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.34.0",

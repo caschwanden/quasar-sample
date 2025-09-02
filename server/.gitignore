@@ -5,6 +5,7 @@ build/
 .env
 npm-debug.log
 yarn-error.log
+logs/
 
 # env files
 src/config/.env.development.local
