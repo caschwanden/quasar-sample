@@ -1,0 +1,18 @@
+# Node / Quasar
+node_modules/
+dist/
+build/
+.env
+npm-debug.log
+yarn-error.log
+
+# env files
+src/config/.env.development.local
+src/config/.env.test.local
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
