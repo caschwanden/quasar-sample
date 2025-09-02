@@ -15,4 +15,6 @@ if (process.env.NODE_ENV === "production") {
 webServer.listen(process.env.PORT || 3000, () => {
   logger.info(`Server running on port ${process.env.PORT || 3000}`);
 });
+
 module.exports = app;
+module.exports = webServer;
